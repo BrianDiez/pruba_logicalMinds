@@ -6,6 +6,9 @@ Esta aplicacion permite crear usuarios con nombre, apellido, email y país, tamb
  -Frontend: Next.js, React, Tailwindcss, CSS Nativo
  -Backend y base de datos: Node.js, Express, Knex.js, PostgreSQL
 
+--Los requisitos para ejecutar la aplicacion son:
+Node.js, PostgreSQL instalados en el sistema.
+
 
 -- Para clonar el repositorio:
 
